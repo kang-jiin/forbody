@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "packageManager": "yarn@3.4.1",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "common": "1.0.0"
+  }
+}
